@@ -20,6 +20,15 @@ export const projectsData = [
     },
     {
         id: 2,
+        projectName: 'React-Personal Portfolio',
+        projectDesc: 'Personal Portfolio',
+        tags: [ 'React Js','HTML', 'CSS'],
+        code: 'https://github.com/SivaenshM/React-Portfolio.git',
+        demo: 'https://react-portfolio-mu-eight.vercel.app/',
+        image: four
+    },
+    {
+        id: 3,
         projectName: 'Random Quotes Genertor',
         projectDesc: 'Have a Random Quotes on every single Click',
         tags: ['Javascript', 'CSS', 'Bootstrap'],
@@ -28,7 +37,7 @@ export const projectsData = [
         image: seven
     },
     {
-        id: 3,
+        id: 4,
         projectName: 'Mordern Shopping Site',
         projectDesc: 'Mordern day Responsive Shopping Website',
         tags: ['Javascript', 'CSS', 'Bootstrap'],
@@ -37,7 +46,7 @@ export const projectsData = [
         image: eight
     },
     {
-        id: 4,
+        id: 5,
         projectName: 'Infinite Roll - Images',
         projectDesc: 'Unlimited random Images on mouse roll',
         tags: ['HTML', 'CSS', 'Javascript'],
